@@ -8,7 +8,7 @@ The purpose of this assignment is to create an application utilizing the mongoos
 ---
 ## Usage
 
-To view the live site click [here]().
+To view the live site click [here](https://young-depths-07136.herokuapp.com/).
 
 To access a copy of the repository for local use:
 * Download a copy of the repository by performing a git pull onto your local machine.
